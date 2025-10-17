@@ -3,6 +3,8 @@
 **A React Native-based piano sampler for learning and playing music instruments with SoundFont support.**
 Supports **SF2 (FluidSynth on Android)** and **SFZ (AudioKit on iOS)**.
 
+[Build an Interactive Music Instrument Learning App in React Native](https://www.sevensquaretech.com/build-music-instrument-learning-app-react-native-code)
+
 ---
 
 ## 📖 Overview
